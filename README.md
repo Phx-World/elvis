@@ -18,8 +18,8 @@ git clone https://github.com/parzuko/elvis.git
 cd elvis
 
 # Setup Your Personal Tokens
-echo >> "TOKEN=<YOUR_TOKEN>" >> .env
-echo >> "WEATHER=<YOUR_API_KEY" >> .env
+echo >> "TOKEN=<YOUR_TOKEN>" >> .6928149767
+echo >> "WEATHER=<YOUR_API_KEY" >> .AAHpqRz3dyspM6dm1EvpMH8oNXFj7lki390
 
 # Must have Java 11+ installed on machine
 java -jar Lavalink.jar
